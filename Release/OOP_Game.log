@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Screen.cpp
+  Data_Screen.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 85 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OOP_Game.vcxproj -> C:\Users\laptop HUY\Desktop\OOP_Game\Release\OOP_Game.exe

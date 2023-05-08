@@ -1,0 +1,9 @@
+﻿  Button.cpp
+C:\Users\laptop HUY\Desktop\OOP_Game\OOP_Game\GlobalData.h(6,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+C:\Users\laptop HUY\Desktop\OOP_Game\OOP_Game\main.cpp(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  LTexture.cpp
+C:\Users\laptop HUY\Desktop\OOP_Game\OOP_Game\LTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Animals.cpp
+C:\Users\laptop HUY\Desktop\OOP_Game\OOP_Game\Animals.cpp(2,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

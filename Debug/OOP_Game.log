@@ -1,0 +1,26 @@
+﻿  Animals.cpp
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(147,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(192,42): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(192,37): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(258,44): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(258,38): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(275,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(395,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\OOP_Game\Animals.cpp(516,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OOP_Game.vcxproj -> C:\Users\MSI GF63\Desktop\Nhom29\Nhom29\ChuongTrinhNongTraiVuiVe\Debug\OOP_Game.exe
